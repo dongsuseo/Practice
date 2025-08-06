@@ -1,5 +1,5 @@
 // src/App.jsx
-import TodayComponent from '../250717/index.jsx';
+import TodayComponent from '../daily/250717/index.jsx';
 
 function App() {
     return (
